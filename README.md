@@ -13,6 +13,12 @@ hutool-all
 
 ![配置信息](https://github.com/LittleWhite1995/automation-script/blob/master/%E4%BD%BF%E7%94%A8%E5%85%88%E7%9C%8B%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.png)
 
+## 使用方式
+
+1. java 代码编译成 class 文件 
+2. 配置好bat对应的地址信息 分别配置 class地址 lib地址 启动入口
+3. 双击bat启动
+
 ## 使用演示
 
 > 查书
