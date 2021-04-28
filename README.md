@@ -7,7 +7,16 @@ hutool-all
 
 ## bat配置信息
 
+重点注意**地址**配置信息要正确
 
-## 项目演示
+![配置信息](https://github.com/LittleWhite1995/automation-script/blob/master/%E4%BD%BF%E7%94%A8%E5%85%88%E7%9C%8B%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.png)
+
+## 使用演示
+
+![使用演示](https://github.com/LittleWhite1995/automation-script/blob/master/%E4%BD%BF%E7%94%A8%E5%85%88%E7%9C%8B%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.png)
+
+![使用演示](https://github.com/LittleWhite1995/automation-script/blob/master/%E4%BD%BF%E7%94%A8%E5%85%88%E7%9C%8B%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.png)
+
+![使用演示](https://github.com/LittleWhite1995/automation-script/blob/master/%E4%BD%BF%E7%94%A8%E5%85%88%E7%9C%8B%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.png)
 
 
